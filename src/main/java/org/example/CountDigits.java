@@ -14,5 +14,6 @@ public class CountDigits {
             count++;
         }
         System.out.println("The number of digits are " + count);
+        System.out.println("Test Git");
     }
 }
